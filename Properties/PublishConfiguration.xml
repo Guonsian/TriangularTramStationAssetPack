@@ -1,21 +1,23 @@
 <Publish>
-  <ModId Value="" />
-  <DisplayName Value="Example Pack (do not subscribe)" />
-  <ShortDescription Value="Example Pack Description" />
-  <LongDescription>## Asset Pack Name
-This asset packs adds xxx and yyy to the game
+  <ModId Value="97291" />
+  <DisplayName Value="Triangular Tram Station" />
+  <ShortDescription Value="Triangular Tram Station with 6 different platforms" />
+  <LongDescription>## Triangular Tram Station
+This asset packs adds a Triangular Tram Station to the game
 
 ## Added Assets:
-- Asset 1
-- Asset 2
-- Asset 3 (special)</LongDescription>
-  <Thumbnail Value="Properties/Thumbnail.png" />
-  <Screenshot Value="" />
+- Triangular Tram Station
+
+## Acknowlgedements
+
+Check [https://github.com/CitiesSkylinesModding/CS2-CustomAssetPack](CS2-CustomAssetPack)</LongDescription>
+  <Thumbnail Value="Properties/edited_image_white_text.jpg" />
+  <Screenshot Value="Properties/edited_image_white_text.jpg" />
   <Tag Value="Code Mod" />
   <ForumLink Value="" />
-  <ModVersion Value="1.0" />
-  <GameVersion Value="1.1.*" />
+  <ModVersion Value="1.1.1" />
+  <GameVersion Value="1.2.*" />
   <Dependency Id="78903" />
-  <ChangeLog>Initial release</ChangeLog>
+  <ChangeLog>Added description and names in EN and ES</ChangeLog>
   <ExternalLink Type="discord" Url="https://discord.gg/UkKAfRqfCn" />
 </Publish>

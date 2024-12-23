@@ -1,4 +1,8 @@
 {
   "Assets.NAME[CarProp]": "CarProp",
-  "Assets.DESCRIPTION[CarProp]": "A small car prop without any functionality"
+  "Assets.DESCRIPTION[CarProp]": "A small car prop without any functionality",
+  "Assets.NAME[Triangular Tram Station]": "Triangular Tram Station",
+  "Assets.DESCRIPTION[Triangular Tram Station]": "A station that allows transfers from 3 different bi-directional tram lanes",
+  "Assets.NAME[TriangularTramStation]": "Triangular Tram Station",
+  "Assets.DESCRIPTION[TriangularTramStation]": "A station that allows transfers from 3 different bi-directional tram lanes"
 }

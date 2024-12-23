@@ -1,4 +1,8 @@
 {
   "Assets.NAME[CarProp]": "AutoProp",
-  "Assets.DESCRIPTION[CarProp]": "Ein kleines Auto zur Dekoration ohne jegliche Funktionalität"
+  "Assets.DESCRIPTION[CarProp]": "Ein kleines Auto zur Dekoration ohne jegliche Funktionalität",
+  "Assets.NAME[Triangular Tram Station]": "testTram",
+  "Assets.DESCRIPTION[Triangular Tram Station]": "",
+  "Assets.NAME[TriangularTramStation]": "TriangularTramStation",
+  "Assets.DESCRIPTION[TriangularTramStation]": ""
 }
