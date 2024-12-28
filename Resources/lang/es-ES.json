@@ -2,5 +2,11 @@
   "Assets.NAME[Triangular Tram Station]": "Estación de tranvías triangular",
   "Assets.DESCRIPTION[Triangular Tram Station]": "Una estación que permite trasbordos de tres lineas de tranvías distintas",
   "Assets.NAME[TriangularTramStation]": "Estación de tranvías triangular",
-  "Assets.DESCRIPTION[TriangularTramStation]": "Una estación que permite trasbordos de tres lineas de tranvías distintas"
+  "Assets.DESCRIPTION[TriangularTramStation]": "Una estación que permite trasbordos de tres lineas de tranvías distintas",
+  "Assets.NAME[TriangularTramStation2]": "Estación de tranvía triangular",
+  "Assets.DESCRIPTION[TriangularTramStation2]": "Una estación que permite trasbordos de tres lineas de tranvías distintas",
+  "Assets.NAME[tramParkPlaza]": "Plaza con travías",
+  "Assets.DESCRIPTION[tramParkPlaza]": "Una plaza con cuatro plataformas de tranvía",
+  "Assets.NAME[MetroTram]": "Plaza de tranvía y metro",
+  "Assets.DESCRIPTION[MetroTram]": "Una plaza pequeña que permite trasbordos de tranvía y metro"
 }

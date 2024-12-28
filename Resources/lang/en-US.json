@@ -4,5 +4,11 @@
   "Assets.NAME[Triangular Tram Station]": "Triangular Tram Station",
   "Assets.DESCRIPTION[Triangular Tram Station]": "A station that allows transfers from 3 different bi-directional tram lanes",
   "Assets.NAME[TriangularTramStation]": "Triangular Tram Station",
-  "Assets.DESCRIPTION[TriangularTramStation]": "A station that allows transfers from 3 different bi-directional tram lanes"
+  "Assets.DESCRIPTION[TriangularTramStation]": "A station that allows transfers from 3 different bi-directional tram lanes",
+  "Assets.NAME[TriangularTramStation2]": "Triangular Tram Station",
+  "Assets.DESCRIPTION[TriangularTramStation2]": "A station that allows transfers from 3 different bi-directional tram lanes",
+  "Assets.NAME[tramParkPlaza]": "Tram Park Plaza",
+  "Assets.DESCRIPTION[tramParkPlaza]": "A plaza with four different tram platforms ",
+  "Assets.NAME[MetroTram]": "Metro Tram Plaza",
+  "Assets.DESCRIPTION[MetroTram]": "A small plaza that allows transfers between two tram platforms and subway"
 }

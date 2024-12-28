@@ -1,23 +1,31 @@
 <Publish>
-  <ModId Value="97291" />
-  <DisplayName Value="Triangular Tram Station" />
-  <ShortDescription Value="Triangular Tram Station with 6 different platforms" />
-  <LongDescription>## Triangular Tram Station
-This asset packs adds a Triangular Tram Station to the game
+  <ModId Value="97967" />
+  <DisplayName Value="Tram Stations Pack" />
+  <ShortDescription Value="This pack adds new tram stations" />
+  <LongDescription>## Tram Stations Pack
+This asset packs adds different tram stations to the game, found in the Transport/Tram tab of the game. This pack was createdas there are not tram stations added in the base game.
+
+In the current version this mod provides three different assets. First a simple plaza and six different platforms for trams, allowing three different bi-directional lanes to operate allowing fast transfers. Also a big city plaza that have four different tram platforms. There is also a metro or subway station with tram platforms
+
+Previously this mod was called: Triangular Tram Station
 
 ## Added Assets:
-- Triangular Tram Station
+- Triangular Tram Station: it can be added to a side of a road, and can be connected using any of the three vertices of the triangle.
+- Metro Tram Plaza: a small plaza can be added to two different sides of the road (roads at the bottom and the right of the station). 
+- Tram Park Plaza.
 
 ## Acknowlgedements
 
-Check [https://github.com/CitiesSkylinesModding/CS2-CustomAssetPack](CS2-CustomAssetPack)</LongDescription>
-  <Thumbnail Value="Properties/edited_image_white_text.jpg" />
-  <Screenshot Value="Properties/edited_image_white_text.jpg" />
+Asset bundled using the following utility: [https://github.com/CitiesSkylinesModding/CS2-CustomAssetPack](CS2-CustomAssetPack)</LongDescription>
+  <Thumbnail Value="Properties/TSP.jpg" />
+  <Screenshot Value="Properties/ts1.jpg" />
+  <Screenshot Value="Properties/ts2.jpg" />
+  <Screenshot Value="Properties/ts3.jpg" />
   <Tag Value="Code Mod" />
   <ForumLink Value="" />
-  <ModVersion Value="1.1.1" />
+  <ModVersion Value="1.0.09" />
   <GameVersion Value="1.2.*" />
   <Dependency Id="78903" />
-  <ChangeLog>Added description and names in EN and ES</ChangeLog>
+  <ChangeLog>Added assets</ChangeLog>
   <ExternalLink Type="discord" Url="https://discord.gg/UkKAfRqfCn" />
 </Publish>
